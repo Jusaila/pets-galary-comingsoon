@@ -80,16 +80,18 @@ const PetsGallaryLanding = () => {
               <div className="mb-8 md:mb-0">
                 <h3 className="text-amber-800 font-semibold mb-3 tracking-wider text-sm uppercase">OPENING HOURS:</h3>
                 <p className="text-gray-700">Sunday - Saturday</p>
-                <p className="text-gray-700">11 am - 8 pm</p>
+                <p className="text-gray-700">10 am - 12 pm</p>
               </div>
               <div>
                 <h3 className="text-amber-800 font-semibold mb-3 tracking-wider text-sm uppercase">LOCATION:</h3>
-                <p className="text-gray-700">Al Jaddaf - Dubai</p>
-                <p className="text-gray-700">United Arab Emirates</p>
+                <p className="text-gray-700">Al wasl sports club stadium building shop #33</p>
+                <p className="text-gray-700">Nouras street Al jeddaf Dubai,UAE</p>
               </div>
               <div>
                 <h3 className="text-amber-800 font-semibold mb-3 tracking-wider text-sm uppercase">Call:</h3>
-                <p className="text-gray-700">+971564180500</p>
+                <p className="text-gray-700">0564180500</p>
+                <p className="text-gray-700">043423500</p>
+
               </div>
             </div>
           </div>
